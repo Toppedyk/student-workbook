@@ -2,6 +2,8 @@
 
 1. What is your favorite tip that you think is the most beneficial to improving your design?
 
+Afternoon Challenge Link
+
 My favorite tip from this reading was the very first one about using weight and color of text to set a heirarchy instead of making the text bigger. This is a tip I am going to implement right away because i is something i've struggled with in my design. 
 
 2. Compile a couple resources that you think might be helpful when trying to review examples of good design ideas. 
