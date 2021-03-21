@@ -3,25 +3,25 @@
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
 ```
-Change Directory
+Change Directory. used to navigete files
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
 ```
-Make Directory
+Make Directory. used to create new folder.
 ```
 
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-this is the root and top level element of an html page. 
+this is the root and top level element of an html page. defines the entire doculent as an html doc.
 ```
 
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
-Hyper text markup language
+HyperText markup language
 ```
 
 **5.** What Does `CSS` stand for?
@@ -46,13 +46,13 @@ cascading style sheets
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-You would add a <strong> tag or <b> tag to the text
+You would add a <strong> tag or <b> tag to the text. or change the font weight to bold
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-the main
+the <main> tag
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
