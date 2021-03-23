@@ -1,8 +1,9 @@
 Monday - 03/22/2021 
-Afternoon Challenge Link:
+Afternoon Challenge Link: https://github.com/Toppedyk/js-test-basics
 
 What is Scope ?
 where the variable is availiable to use. the whole document vs local to function.
+
 
 What is Hoisting ?
 a JS mechanism that variables and funtion declorations are moved to the top of their scope before code executes. so it can be declared as a var below where it's already used in the code. 
