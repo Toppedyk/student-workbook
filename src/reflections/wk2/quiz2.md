@@ -13,7 +13,15 @@ A function is a subprogram designed to perform a particular task.
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
+S: Single Responsibility Principle, a function or class should only have one purpose each.
 
+O: Open/Closed Principle, software entities classes, modules, functions should be open for extension, but closed for modification
+
+L: Liskov Substitution Principle, objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program
+
+I: Interface Segregation Principle, many client-specific interfaces are better than one general-purpose interface
+
+D: Dependency Inversion Principle, depend upon abstractions, not concretions
 ```
 **4.** Given this array: 
 ```js
@@ -53,21 +61,30 @@ incrementer ,i++
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+Document Object Model, the html file renders the dom and we use JS to manipulate it. 
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
+undefined 
+Boolean 
+Number 
+String 
+BigInt 
+Symbol 
+Object
+Function 
+Null
 
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-
+a parameter is what is used when the function is defined and the argument is what is passed in when the function is invoked
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+The basic difference is that primitive variables store the actual values, whereas reference variables store the addresses of the objects they refer to
 ```

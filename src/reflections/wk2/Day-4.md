@@ -1,5 +1,5 @@
 Thursday 03/24/2021 
-Afternoon challenge link: 
+Afternoon challenge link: https://github.com/Toppedyk/slap-game
 
 Questions: 
 What are the benefits of making a plan before starting to just write the code?
