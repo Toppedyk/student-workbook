@@ -16,7 +16,7 @@ let property = 'name'
 ```
 <!-- enter you answer in the space below -->
 ```
-
+staff['property']
 ```
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
@@ -26,12 +26,12 @@ let property = 'name'
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single Responsibility
 ```
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
 ```
-
+the class is like the blueprint and the instance of it is when the properties are assigned values. such as blueprints vs. the house that was built. 
 ```
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
