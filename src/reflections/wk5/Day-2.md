@@ -1,5 +1,5 @@
 Tuesday 04/13/2021
-Afternoon Link: 
+Afternoon Link: https://github.com/Toppedyk/spring21-gregslist-server
 
 What are the three types of relationships?
 one to one

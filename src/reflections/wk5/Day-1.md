@@ -1,5 +1,5 @@
 Monday April 12, 2021
-Afternoon Link: 
+Afternoon Link: https://github.com/Toppedyk/node-day-1
 
 What is the purpose of a Query String?
 appends a url with the parameters in the string

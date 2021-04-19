@@ -1,5 +1,5 @@
 Thursday 04/15/2021
-Afternoon Link: 
+Afternoon Link: Hackathon prep
 
 What is a virtual property?
 Virtuals are additional fields for a given model. Their values can be set manually or automatically with defined functionality
