@@ -1,5 +1,5 @@
 Thursday 04/22/2021
-Afternoon Link: 
+Afternoon Link: https://github.com/Toppedyk/blogger
 
 What is a nested route?
 Nested routes allow for more complex user interfaces with components nested inside each other
