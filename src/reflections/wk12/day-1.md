@@ -1,0 +1,2 @@
+Monday: 
+I finished the back end of my application today and am passing all the postman tests. C# has been very fun to learn and i'm looking forward to using it in other projects. SQL statements especially the many to many relationship was the hardest part of the server. 

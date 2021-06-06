@@ -1,0 +1,2 @@
+Tuesday: 
+I have started on the front end and am making good progress on it. I have the skeletons of the pages made and have began to write all the functions i will need in my services. Masonry layout is really tricky but i like the look of it, i used bootdtrap card columns but would like to practice using something else

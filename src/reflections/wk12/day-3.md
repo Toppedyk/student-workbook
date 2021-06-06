@@ -1,0 +1,2 @@
+Wednesday:
+I finished all the requirements of the final today and have been graded. the hardest part for me was the populating of the creator on the vaultkeeps. this led to me having to revisit my server and changing a few sql statements. I am really proud of myself and how far my coding abilities have come! 

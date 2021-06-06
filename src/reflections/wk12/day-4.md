@@ -1,0 +1,2 @@
+Thursday: 
+Today i mostly worked on the styling of the final. this is the part i struggle with the most and i still have a lot of work to do on it before it is portfolio ready. I am begginning to work on my interview prep and practicing whiteboard challenges. 
